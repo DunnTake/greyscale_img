@@ -1,5 +1,9 @@
 # greyscale_img
-làm xám ảnh --- 7/2026
+7/2026
+
+Chương trình làm xám ảnh bằng Python
+
+Thư viện cần thiết: opencv
 
 Cách sử dụng:
 1. Đặt ảnh cần được làm xám vào trong folder Input
