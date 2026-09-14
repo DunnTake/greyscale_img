@@ -3,7 +3,7 @@
 
 Chương trình làm xám ảnh bằng Python
 
-Thư viện cần thiết: opencv
+Thư viện cần thiết: opencv, numpy, pillow
 
 Cách sử dụng:
 1. Đặt ảnh cần được làm xám vào trong folder Input
